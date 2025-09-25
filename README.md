@@ -12,7 +12,7 @@ It allows customers to **choose their design and preview it before printing**, m
 - Hamsa Badr
 - Noreen Tamer
 - Ahmed El-Sayed
-- Ammar
+- Ammar Mohamed
 
 ## Project Plan
 1. **Research & Analysis**  
