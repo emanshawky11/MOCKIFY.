@@ -38,7 +38,17 @@ It allows customers to **choose their design and preview it before printing**, m
 
 6. **Future Improvements**  
    - Add more customizable templates.  
-   - Integrate AI for automated design suggestions.  
+   - Integrate AI for automated design suggestions.
+
+---
+# Objectives
+
+- Launch the Mockify online platform within 6 months.  
+- Reach 5,000 followers on social media in the first year.  
+- Achieve 300 customized orders during the first 6 months after launch.  
+- Build partnerships with at least 3 local workshops or suppliers.  
+- Create 50+ mockup templates covering fashion and lifestyle products.  
+- Introduce AI-based design suggestions by the second year.
 
 ---
 
