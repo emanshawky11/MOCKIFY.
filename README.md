@@ -158,15 +158,31 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
 
 ## 7. SWOT (Internal Focus)
 
-### • Strengths:
-- Combination of **AI design and fashion** = unique market position.  
-- High-quality customizable products.  
-- Affordable and relatable for young audiences.  
-- Educational edge that builds brand credibility.
+## 7. SWOT (Internal Focus)
 
-### • Weaknesses:
-- Highly competitive fashion market.  
-- Limited control over production due to supplier dependence.  
-- Requires continuous innovation and marketing effort.
+### Strengths:
+- Unique selling point: customers design/choose their own style.  
+- Flexibility in designs appeals to youth.  
+- Low initial investment compared to traditional brands.  
+- Easy social media promotion (Instagram, TikTok).  
+
+### Weaknesses:
+- Strong competition from established brands.  
+- Higher printing costs reduce profit margin.  
+- Limited brand awareness at the start.  
+- Quality control issues (printing, fabrics, sizing).  
+
+### Opportunities:
+- Growing demand for personalized fashion in Egypt.  
+- Social media influences can increase reach quickly.  
+- Gift culture supports customized items.  
+- Potential to expand into other products (caps, tote bags, mugs).  
+
+### Threats:
+- Inflation and rising prices of fabrics & printing materials.  
+- Copycats who can imitate your idea quickly.  
+- Customers may prefer cheaper ready-made clothes.  
+- Economic downturn could reduce spending on “non-essential” fashion.  
+- 
 
 
