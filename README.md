@@ -158,8 +158,6 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
 
 ## 7. SWOT (Internal Focus)
 
-## 7. SWOT (Internal Focus)
-
 ### Strengths:
 - Unique selling point: customers design/choose their own style.  
 - Flexibility in designs appeals to youth.  
@@ -176,7 +174,59 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
 - Growing demand for personalized fashion in Egypt.  
 - Social media influences can increase reach quickly.  
 - Gift culture supports customized items.  
-- Potential to expand into other products (caps, tote bags, mugs).  
+- Potential to expand into other products (caps, tote bags, mugs).
+
+
+---
+
+
+## 🎯 Buyer Persona
+
+---
+
+### 👩 **Sara Ahmed**  
+*(Sr. Graphic Designer)*  
+
+- **Age:** 20  
+- **Occupation:** University Student  
+- **Lifestyle:** Active on Instagram and TikTok; enjoys casual and trendy outfits; often spends time at cafés and social gatherings.  
+- **Motivations:**  
+  - Unique yet affordable fashion  
+  - Self-expression through clothing  
+  - Keeping up with the latest trends  
+- **Pain Points:**  
+  - Limited budget  
+  - Slow delivery times  
+  - Lack of unique local fashion options  
+- **Buying Behavior:**  
+  - Shops primarily online  
+  - Follows influencers for fashion inspiration  
+  - Drawn to discounts, bundles, and limited-edition drops  
+
+---
+
+### 👨 **Ahmed Mostafa**  
+*(Engineering Student)*  
+
+- **Age:** 22  
+- **Lifestyle:** Enjoys streetwear, football, and gaming; active on TikTok and Instagram, keeps up with trending styles and influencers.  
+- **Motivations:**  
+  - Stylish but affordable outfits  
+  - Comfort with a touch of uniqueness  
+  - Expressing individuality through fashion  
+- **Pain Points:**  
+  - Common or repetitive designs in the market  
+  - Inconsistent sizing  
+  - High prices from global fashion brands  
+- **Buying Behavior:**  
+  - Prefers online shopping  
+  - Heavily influenced by peers and influencers  
+  - Strong interest in exclusive or limited-edition releases  
+
+---
+
+
+
 
 ### Threats:
 - Inflation and rising prices of fabrics & printing materials.  
