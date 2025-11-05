@@ -165,7 +165,7 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
 ---
 
 
-## 🎯 Buyer Persona
+## Buyer Persona
 
 ---
 
@@ -249,13 +249,13 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
 
 ---
 
-# 📢 November Campaign — Mockify
+# October Campaign — Mockify
 
 ## 🎯 Objective
 Promote Mockify’s customizable fashion through engaging Facebook posts and videos to increase brand awareness and page interactions during November.
 
 ## 📆 Duration
-November 2025
+October 2025
 
 ## 📱 Platform
 Facebook
