@@ -52,27 +52,6 @@ It allows customers to **choose their design and preview it before printing**, m
 
 ---
 
-## Social Media Plan
-- **Platforms**: Facebook & Instagram  
-- **Posting Frequency**: 3 posts per week on each platform  
-- **Posting Days**: Saturday, Monday, Wednesday  
-- **Posting Time**: 7:00 PM  
-
-### Content Types:
-1. **Educational Post** – To provide value and build trust.  
-2. **Sales/Promotional Post** – To showcase products and drive conversions.  
-3. **Interactive Post** – To engage with the audience (polls, questions, or games).  
-
----
-
-## Weekly Posting Calendar  (october)
-
-| Day        | Time   | Content Type       | Platform(s)       |
-|------------|--------|--------------------|-------------------|
-| Saturday   | 7:00PM | Educational Post   | Facebook, Instagram |
-| Monday     | 7:00PM | Sales/Promotional  | Facebook, Instagram |
-| Wednesday  | 7:00PM | Interactive Post   | Facebook, Instagram |
-
  # Internal Analysis Mockify (Customized Fashion Brand)
 
 ---
@@ -176,6 +155,12 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
 - Gift culture supports customized items.  
 - Potential to expand into other products (caps, tote bags, mugs).
 
+  ### Threats:
+- Inflation and rising prices of fabrics & printing materials.  
+- Copycats who can imitate your idea quickly.  
+- Customers may prefer cheaper ready-made clothes.  
+- Economic downturn could reduce spending on “non-essential” fashion.
+
 
 ---
 
@@ -222,17 +207,83 @@ A creative and relatable brand that connects **technology, fashion, and self-exp
   - Prefers online shopping  
   - Heavily influenced by peers and influencers  
   - Strong interest in exclusive or limited-edition releases  
-
+  
 ---
 
 
+##  Unique Selling Point (USP)
+
+**Customer-Centered Design** — Every customer becomes their own designer by choosing or customizing styles that express their identity.
+
+---
+
+## Social Media Plan
+- **Platforms**: Facebook & Instagram  
+- **Posting Frequency**: 3 posts per week on each platform  
+- **Posting Days**: Saturday, Monday, Wednesday  
+- **Posting Time**: 7:00 PM  
+
+### Content Types:
+1. **Educational Post** – To provide value and build trust.  
+2. **Sales/Promotional Post** – To showcase products and drive conversions.  
+3. **Interactive Post** – To engage with the audience (polls, questions, or games).  
+
+---
+
+## Weekly Posting Calendar  (october)
+
+| Day        | Time   | Content Type       | Platform(s)       |
+|------------|--------|--------------------|-------------------|
+| Saturday   | 7:00PM | Educational Post   | Facebook, Instagram |
+| Monday     | 7:00PM | Sales/Promotional  | Facebook, Instagram |
+| Wednesday  | 7:00PM | Interactive Post   | Facebook, Instagram |
+
+##  Weekly Posting Calendar (November)
+
+| Day         | Time   | Content Type         | Platform(s)          |
+|--------------|--------|----------------------|----------------------|
+| Sunday       | 7:00PM | Educational / Tips   | Facebook, Instagram  |
+| Tuesday      | 7:00PM | Promotional / Offers | Facebook, Instagram  |
+| Thursday     | 7:00PM | Interactive / Polls  | Facebook, Instagram  |
+| Saturday     | 7:00PM | Customer Stories | Facebook, Instagram  |
+
+---
+
+# 📢 November Campaign — Mockify
+
+## 🎯 Objective
+Promote Mockify’s customizable fashion through engaging Facebook posts and videos to increase brand awareness and page interactions during November.
+
+## 📆 Duration
+November 2025
+
+## 📱 Platform
+Facebook
+
+---
+
+## Campaign Posts
+
+| Type | Description | Link |
+|------|--------------|------|
+| 🖼️ Post 1 | Product showcase: highlight of customizable hoodie designs. | [View Post](https://www.facebook.com/share/p/1GMvp3r49K/) |
+| 🖼️ Post 2 | Promotional post featuring limited-time offer for students. | [View Post](https://www.facebook.com/share/p/1KRhDexSXm/) |
+| 🎥 Reel 1 | Short video showing the printing process and brand identity. | [Watch Reel](https://www.facebook.com/share/r/1GxJpw2Smy/) |
+| 🎥 Video 2 | Lifestyle clip featuring models wearing Mockify outfits. | [Watch Video](https://www.facebook.com/share/v/19oJTUn2wM/) |
+| 🖼️ Post 3 | Interactive poll asking followers about favorite designs. | [View Post](https://www.facebook.com/share/p/1CUHeT8zYc/) |
+| 🎥 Reel 3 | Customer reactions and behind-the-scenes footage. | [Watch Reel](https://www.facebook.com/share/v/1F6PMV1BFb/) |
+
+---
+
+## Expected Outcome
+- Increase brand visibility among students.  
+- Drive traffic to Mockify’s social media page.  
+- Build engagement through reels and polls.
 
 
-### Threats:
-- Inflation and rising prices of fabrics & printing materials.  
-- Copycats who can imitate your idea quickly.  
-- Customers may prefer cheaper ready-made clothes.  
-- Economic downturn could reduce spending on “non-essential” fashion.  
-- 
+
+
+
+
 
 
